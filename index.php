@@ -6,7 +6,7 @@
 </head>
 <body>
 
-	<h1>Login Operator</h1>
+	<h1>Login Operator Dosen</h1>
 
 	<?php
 	if(isset($_GET['pesan'])){
